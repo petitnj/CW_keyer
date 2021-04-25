@@ -13,3 +13,6 @@ outputs
   pin LED -- system LED
   pin D10 -- ground to key
 touch pads about 3/8" x 3/8"
+
+Library files added for completion. You may have to download up-to-date library files from
+the circuitpython site. 
